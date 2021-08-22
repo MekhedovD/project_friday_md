@@ -1,0 +1,16 @@
+.active {
+    color: #868efa;
+}
+
+.menuLink {
+    padding: 10px;
+    text-decoration: none;
+}
+
+.menuLink:hover {
+    text-decoration: underline;
+}
+
+/*.errorWrapper {*/
+/*    background-image: url("https://www.meme-arsenal.com/memes/f9a568a007a0f759eed4d993cc20339c.jpg");*/
+/*}*/
