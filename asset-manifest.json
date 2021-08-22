@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/project_friday_md/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/project_friday_md/static/js/main.93a685d3.chunk.js",
-    "main.js.map": "/project_friday_md/static/js/main.93a685d3.chunk.js.map",
-    "runtime-main.js": "/project_friday_md/static/js/runtime-main.158ef25f.js",
-    "runtime-main.js.map": "/project_friday_md/static/js/runtime-main.158ef25f.js.map",
-    "static/js/2.8d37718b.chunk.js": "/project_friday_md/static/js/2.8d37718b.chunk.js",
-    "static/js/2.8d37718b.chunk.js.map": "/project_friday_md/static/js/2.8d37718b.chunk.js.map",
-    "static/js/3.31099a09.chunk.js": "/project_friday_md/static/js/3.31099a09.chunk.js",
-    "static/js/3.31099a09.chunk.js.map": "/project_friday_md/static/js/3.31099a09.chunk.js.map",
+    "main.css": "/project_friday_md/static/css/main.e06b9945.chunk.css",
+    "main.js": "/project_friday_md/static/js/main.8d423fc8.chunk.js",
+    "main.js.map": "/project_friday_md/static/js/main.8d423fc8.chunk.js.map",
+    "runtime-main.js": "/project_friday_md/static/js/runtime-main.a9c08cef.js",
+    "runtime-main.js.map": "/project_friday_md/static/js/runtime-main.a9c08cef.js.map",
+    "static/js/2.a9de2348.chunk.js": "/project_friday_md/static/js/2.a9de2348.chunk.js",
+    "static/js/2.a9de2348.chunk.js.map": "/project_friday_md/static/js/2.a9de2348.chunk.js.map",
+    "static/js/3.ddb32ec7.chunk.js": "/project_friday_md/static/js/3.ddb32ec7.chunk.js",
+    "static/js/3.ddb32ec7.chunk.js.map": "/project_friday_md/static/js/3.ddb32ec7.chunk.js.map",
     "index.html": "/project_friday_md/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/project_friday_md/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.8d37718b.chunk.js.LICENSE.txt": "/project_friday_md/static/js/2.8d37718b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/project_friday_md/static/media/logo.6ce24c58.svg"
+    "static/css/main.e06b9945.chunk.css.map": "/project_friday_md/static/css/main.e06b9945.chunk.css.map",
+    "static/js/2.a9de2348.chunk.js.LICENSE.txt": "/project_friday_md/static/js/2.a9de2348.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.158ef25f.js",
-    "static/js/2.8d37718b.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.93a685d3.chunk.js"
+    "static/js/runtime-main.a9c08cef.js",
+    "static/js/2.a9de2348.chunk.js",
+    "static/css/main.e06b9945.chunk.css",
+    "static/js/main.8d423fc8.chunk.js"
   ]
 }
